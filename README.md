@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# B'day Pal
+## Is your birthday a pallindrome?
+### Find Out [here](https://upbeat-lichterman-bcd4af.netlify.app/)
 
 ## Getting Started
 
